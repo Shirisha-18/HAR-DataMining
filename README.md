@@ -3,7 +3,7 @@
 Human Activity Recognition (HAR) is a field with diverse applications, ranging from personal health monitors to fitness devices. This project involves the analysis of accelerometer data to determine whether an individual's activity can be accurately detected. The dataset, named Dataset-har-PUC-Rio-ugulino.csv, contains approximately 8 hours of accelerometer data for four individuals, captured from accelerometers worn on the waist, left thigh, right arm, and right ankle.
 
 ## Dataset
-- **File: `Dataset-har-PUC-Rio-ugulino.csv`** <br>
+- **File: [`Dataset-har-PUC-Rio-ugulino.csv`](https://github.com/Shirisha-18/HAR-DataMining/blob/23accfa128bc9612ef206f28f8fe4ad95d9918dc/dataset-har-PUC-Rio-ugulino.csv)** <br>
 - **Description:** The dataset comprises 3-axis acceleration measurements taken over 150ms time windows, presented in temporal order without timestamps. Each record corresponds to one of five activity classes: sitting, sitting-down, standing, standing-up, and walking. <br><br>
 For more information, you can visit the HAR Dataset at PUC-Rio.
 
