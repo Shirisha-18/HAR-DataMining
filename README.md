@@ -5,7 +5,7 @@ Human Activity Recognition (HAR) is a field with diverse applications, ranging f
 ## Dataset
 - **File: [`Dataset-har-PUC-Rio-ugulino.csv`](https://github.com/Shirisha-18/HAR-DataMining/blob/23accfa128bc9612ef206f28f8fe4ad95d9918dc/dataset-har-PUC-Rio-ugulino.csv)** <br>
 - **Description:** The dataset comprises 3-axis acceleration measurements taken over 150ms time windows, presented in temporal order without timestamps. Each record corresponds to one of five activity classes: sitting, sitting-down, standing, standing-up, and walking. <br><br>
-For more information, you can visit the HAR Dataset at PUC-Rio.
+For more information, you can visit [http://groupware.les.inf.puc-rio.br/har#ixzz2aUaBROdz](http://groupware.les.inf.puc-rio.br/har#ixzz2aUaBROdz)
 
 ## Objectives
 **1. Activity Detection:**
